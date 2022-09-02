@@ -11,7 +11,7 @@ of the program was Java
 5. Enter the time each person needs to cross the bridge (enter each time separately).
 6. Enter the maximum time in which the program must be solved.
 
-# Modeling the problem
+# Modeling the problem 
 The classes used in the program are Bridge,
 Searcher, Node and Person. The implementations of the Person class
 correspond to the individuals who make up the group of individuals who

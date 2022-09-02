@@ -1,7 +1,7 @@
 # General information
 This program models and solves the bridge and torch problem.
 The programming language used for development
-of the program was Java
+of the program was Java.
 
 # Use instractions
 1. Go to the folder containing the .java files through the command prompt
